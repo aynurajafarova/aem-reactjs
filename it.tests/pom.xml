@@ -57,9 +57,9 @@
             <id>local</id>
             <properties>
                 <!-- Cloud author service (LB) -->
-                <it.author.url>https://author-p100109-e919088.adobeaemcloud.com/</it.author.url>
-                <it.author.user>Hote902@odl.adobevlab.com</it.author.user>
-                <it.author.password>TA=C(z6xgwV/J7P$</it.author.password>
+                <it.author.url>http://localhost:4502</it.author.url>
+                <it.author.user>admin</it.author.user>
+                <it.author.password>admin</it.author.password>
 
                 <!-- cloud publish service (LB) -->
                 <it.publish.url>http://localhost:4503</it.publish.url>
